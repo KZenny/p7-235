@@ -1,3 +1,7 @@
+// File: ChessPlayer.hpp
+// Author: Kenny Zhou
+// Date: 5/11/2025
+// A header file containing a ChessPlayer struct.
 #pragma once
 
 #include <string>

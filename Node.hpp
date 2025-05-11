@@ -1,3 +1,7 @@
+// File: Node.hpp
+// Author: Kenny Zhou
+// Date: 5/11/2025
+// A header file containing a Node class. 
 #pragma once
 
 template <class T>

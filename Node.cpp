@@ -1,3 +1,7 @@
+// File: Node.cpp
+// Author: Kenny Zhou
+// Date: 5/11/2025
+// A source file containing the implementation of the Node class.
 #include "Node.hpp"
 
 /**

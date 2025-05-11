@@ -1,3 +1,7 @@
+// File: PlayerBST.hpp
+// Author: Kenny Zhou
+// Date: 5/11/2025
+// A header file containing a PlayerBST class. This class defines a binary search tree (BST) that stores ChessPlayer objects. This file declares the private members root_ (a ChessPlayer node) and size_ (the number of nodes). This file declares the constructor, destructor, and member functions for inserting, removing, checking if a player exists, counting players with a minimum number of wins, calculating the average number of wins, and converting the BST to a vector using different traversal methods (in-order, pre-order, post-order). 
 #pragma once
 #include "ChessPlayer.hpp"
 #include "Node.hpp"

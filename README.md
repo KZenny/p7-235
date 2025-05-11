@@ -254,4 +254,4 @@ Help is available via drop-in tutoring in Lab 1001B (see Blackboard for schedule
 
 Authors: Daniel Sooknanan, Prof. Maryash
 
-Credit to Prof. Ligorio & Prof. Wole
+Credit to Prof. Ligorio & Prof. Wole# p7-235
